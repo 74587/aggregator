@@ -474,8 +474,43 @@ emoji = "🇬🇱"
 
 
 [[emoji]]
-match = "(Honduras|洪都拉斯)"
-emoji = "🇭🇳"
+match = "(Rwanda|卢旺达)"
+emoji = "🇷🇼"
+
+
+[[emoji]]
+match = "(Tanzania|坦桑尼亚)"
+emoji = "🇹🇿"
+
+
+[[emoji]]
+match = "(Brunei|文莱)"
+emoji = "🇧🇳"
+
+
+[[emoji]]
+match = "(Fiji|Suva|斐济)"
+emoji = "🇫🇯"
+
+
+[[emoji]]
+match = "(Reunion|留尼汪)"
+emoji = "🇷🇪"
+
+
+[[emoji]]
+match = "(Kuwait|科威特)"
+emoji = "🇰🇼"
+
+
+[[emoji]]
+match = "(Martinique|马提尼克)"
+emoji = "🇲🇶"
+
+
+[[emoji]]
+match = "(Madagascar|马达加斯加)"
+emoji = "🇲🇬"
 
 
 [[emoji]]
